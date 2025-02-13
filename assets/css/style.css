@@ -3390,8 +3390,7 @@ table p {
   }
 }
 .header-area.header-default .header-logo-area {
-  max-width: 160px;
-  top: 0;
+  width: 100px;
 }
 .header-area.header-default .header-navigation-area .main-menu {
   margin-left: 31px;
@@ -4185,6 +4184,7 @@ table p {
 }
 .header-area.sticky-header.sticky.header-style2 .header-logo-area .logo-light {
   display: block;
+  padding-bottom: 26px;
 }
 .header-area.sticky-header.sticky.header-style2 .header-navigation-area .main-menu > li > a {
   color: #333;
